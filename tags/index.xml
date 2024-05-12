@@ -6,7 +6,7 @@
     <description>Recent content in Tags on AboutHugo-DocsyTryout</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 10 Nov 2023 12:40:56 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 12 May 2024 11:49:18 +0200</lastBuildDate>
     <atom:link href="https://about-hugo.github.io/theme-tryout-docsy/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Docs</title>
@@ -16,10 +16,10 @@
       <description></description>
     </item>
     <item>
-      <title>Sample</title>
-      <link>https://about-hugo.github.io/theme-tryout-docsy/tags/sample/</link>
+      <title>Hello</title>
+      <link>https://about-hugo.github.io/theme-tryout-docsy/tags/hello/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://about-hugo.github.io/theme-tryout-docsy/tags/sample/</guid>
+      <guid>https://about-hugo.github.io/theme-tryout-docsy/tags/hello/</guid>
       <description></description>
     </item>
     <item>
@@ -27,6 +27,13 @@
       <link>https://about-hugo.github.io/theme-tryout-docsy/tags/test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://about-hugo.github.io/theme-tryout-docsy/tags/test/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sample</title>
+      <link>https://about-hugo.github.io/theme-tryout-docsy/tags/sample/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://about-hugo.github.io/theme-tryout-docsy/tags/sample/</guid>
       <description></description>
     </item>
   </channel>

@@ -14,5 +14,12 @@
       <guid>https://about-hugo.github.io/theme-tryout-docsy/blog/2024/05/12/long-page-title/</guid>
       <description>This page was created via github!!! Heading Edit this template to create your new page.&#xA;Give it a good name, ending in .md - e.g. getting-started.md Edit the &amp;ldquo;front matter&amp;rdquo; section at the top of the page (weight controls how its ordered amongst other pages in the same directory; lowest number first). Add a good commit message at the bottom of the page (&amp;lt;80 characters; use the extended description field for more detail).</description>
     </item>
+    <item>
+      <title>Hello</title>
+      <link>https://about-hugo.github.io/theme-tryout-docsy/blog/2024/05/12/hello/</link>
+      <pubDate>Sun, 12 May 2024 11:21:42 +0200</pubDate>
+      <guid>https://about-hugo.github.io/theme-tryout-docsy/blog/2024/05/12/hello/</guid>
+      <description>this is my first blog post</description>
+    </item>
   </channel>
 </rss>

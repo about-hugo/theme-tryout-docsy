@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello on AboutHugo-DocsyTryout</title>
+    <link>https://about-hugo.github.io/theme-tryout-docsy/tags/hello/</link>
+    <description>Recent content in Hello on AboutHugo-DocsyTryout</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 12 May 2024 11:49:18 +0200</lastBuildDate>
+    <atom:link href="https://about-hugo.github.io/theme-tryout-docsy/tags/hello/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello</title>
+      <link>https://about-hugo.github.io/theme-tryout-docsy/blog/2024/05/12/hello/</link>
+      <pubDate>Sun, 12 May 2024 11:21:42 +0200</pubDate>
+      <guid>https://about-hugo.github.io/theme-tryout-docsy/blog/2024/05/12/hello/</guid>
+      <description>this is my first blog post</description>
+    </item>
+  </channel>
+</rss>

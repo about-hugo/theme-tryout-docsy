@@ -6,7 +6,7 @@
     <description>Recent content in Docs on AboutHugo-DocsyTryout</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 10 Nov 2023 12:40:56 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 12 May 2024 11:49:18 +0200</lastBuildDate>
     <atom:link href="https://about-hugo.github.io/theme-tryout-docsy/tags/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Getting Started</title>
@@ -14,6 +14,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://about-hugo.github.io/theme-tryout-docsy/docs/getting-started/</guid>
       <description>This is a placeholder page that shows you how to use this template site.&#xA;Information in this section helps your user try your project themselves.&#xA;What do your users need to do to start using your project? This could include downloading/installation instructions, including any prerequisites or system requirements.&#xA;Introductory “Hello World” example, if appropriate. More complex tutorials should live in the Tutorials section.&#xA;Consider using the headings below for your getting started page.</description>
+    </item>
+    <item>
+      <title>Hello</title>
+      <link>https://about-hugo.github.io/theme-tryout-docsy/blog/2024/05/12/hello/</link>
+      <pubDate>Sun, 12 May 2024 11:21:42 +0200</pubDate>
+      <guid>https://about-hugo.github.io/theme-tryout-docsy/blog/2024/05/12/hello/</guid>
+      <description>this is my first blog post</description>
     </item>
     <item>
       <title>Example Page</title>

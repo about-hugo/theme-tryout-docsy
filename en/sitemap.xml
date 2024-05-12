@@ -94,6 +94,36 @@
     <loc>https://about-hugo.github.io/theme-tryout-docsy/blog/2024/05/12/long-page-title/</loc>
     <lastmod>2024-05-12T11:47:15+02:00</lastmod>
   </url><url>
+    <loc>https://about-hugo.github.io/theme-tryout-docsy/tags/docs/</loc>
+    <lastmod>2024-05-12T11:49:18+02:00</lastmod>
+  </url><url>
+    <loc>https://about-hugo.github.io/theme-tryout-docsy/tags/hello/</loc>
+    <lastmod>2024-05-12T11:49:18+02:00</lastmod>
+  </url><url>
+    <loc>https://about-hugo.github.io/theme-tryout-docsy/blog/2024/05/12/hello/</loc>
+    <lastmod>2024-05-12T11:49:18+02:00</lastmod>
+  </url><url>
+    <loc>https://about-hugo.github.io/theme-tryout-docsy/tags/</loc>
+    <lastmod>2024-05-12T11:49:18+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://about-hugo.github.io/theme-tryout-docsy/fa/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://about-hugo.github.io/theme-tryout-docsy/no/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://about-hugo.github.io/theme-tryout-docsy/tags/"
+                />
+  </url><url>
+    <loc>https://about-hugo.github.io/theme-tryout-docsy/tags/test/</loc>
+    <lastmod>2024-05-12T11:49:18+02:00</lastmod>
+  </url><url>
     <loc>https://about-hugo.github.io/theme-tryout-docsy/blog/2018/10/06/easy-documentation-with-docsy/</loc>
     <lastmod>2023-06-12T15:56:47-04:00</lastmod>
     <xhtml:link
@@ -131,9 +161,6 @@
                 href="https://about-hugo.github.io/theme-tryout-docsy/categories/"
                 />
   </url><url>
-    <loc>https://about-hugo.github.io/theme-tryout-docsy/tags/docs/</loc>
-    <lastmod>2023-11-10T12:40:56+01:00</lastmod>
-  </url><url>
     <loc>https://about-hugo.github.io/theme-tryout-docsy/docs/getting-started/example-page/</loc>
     <lastmod>2023-11-10T12:40:56+01:00</lastmod>
   </url><url>
@@ -144,27 +171,6 @@
     <lastmod>2023-11-10T12:40:56+01:00</lastmod>
   </url><url>
     <loc>https://about-hugo.github.io/theme-tryout-docsy/tags/sample/</loc>
-    <lastmod>2023-11-10T12:40:56+01:00</lastmod>
-  </url><url>
-    <loc>https://about-hugo.github.io/theme-tryout-docsy/tags/</loc>
-    <lastmod>2023-11-10T12:40:56+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://about-hugo.github.io/theme-tryout-docsy/fa/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://about-hugo.github.io/theme-tryout-docsy/no/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://about-hugo.github.io/theme-tryout-docsy/tags/"
-                />
-  </url><url>
-    <loc>https://about-hugo.github.io/theme-tryout-docsy/tags/test/</loc>
     <lastmod>2023-11-10T12:40:56+01:00</lastmod>
   </url><url>
     <loc>https://about-hugo.github.io/theme-tryout-docsy/docs/tasks/ponycopters/</loc>
