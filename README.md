@@ -1,3 +1,9 @@
+# Docsy Tryout
+## Sunday, 12.May 2024 10:39
+- forked example
+
+
+
 # Docsy Example
 
 [Docsy][] is a [Hugo theme module][] for technical documentation sites, providing easy
