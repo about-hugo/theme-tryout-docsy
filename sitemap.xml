@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://about-hugo.github.io/theme-tryout-docsy/en/sitemap.xml</loc>
+    
+      <lastmod>2024-05-12T10:50:59+02:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://about-hugo.github.io/theme-tryout-docsy/fa/sitemap.xml</loc>
+    
+      <lastmod>2023-11-10T12:40:56+01:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://about-hugo.github.io/theme-tryout-docsy/no/sitemap.xml</loc>
+    
+      <lastmod>2023-11-10T07:28:51-05:00</lastmod>
+    
+  </sitemap>
+  
+</sitemapindex>
