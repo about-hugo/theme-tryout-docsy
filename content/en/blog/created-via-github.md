@@ -1,6 +1,7 @@
 ---
 title: "Long Page Title"
 linkTitle: "Short Nav Title"
+date: 2024-05-12T11:21:42+02:00
 weight: 100
 description: >-
      Page description for heading and indexes.
