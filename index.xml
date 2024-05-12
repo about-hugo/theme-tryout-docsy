@@ -57,6 +57,13 @@
       <description>This is a placeholder page. Replace it with your own content.&#xA;Text can be bold, italic, or strikethrough. Links should be blue with no underlines (unless hovered over).&#xA;There should be whitespace between paragraphs. Vape migas chillwave sriracha poutine try-hard distillery. Tattooed shabby chic small batch, pabst art party heirloom letterpress air plant pop-up. Sustainable chia skateboard art party banjo cardigan normcore affogato vexillologist quinoa meggings man bun master cleanse shoreditch readymade.</description>
     </item>
     <item>
+      <title>Long Page Title</title>
+      <link>https://about-hugo.github.io/theme-tryout-docsy/blog/1/01/01/long-page-title/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://about-hugo.github.io/theme-tryout-docsy/blog/1/01/01/long-page-title/</guid>
+      <description>This page was created via github!!! Heading Edit this template to create your new page.&#xA;Give it a good name, ending in .md - e.g. getting-started.md Edit the &amp;ldquo;front matter&amp;rdquo; section at the top of the page (weight controls how its ordered amongst other pages in the same directory; lowest number first). Add a good commit message at the bottom of the page (&amp;lt;80 characters; use the extended description field for more detail).</description>
+    </item>
+    <item>
       <title>Easy documentation with Docsy</title>
       <link>https://about-hugo.github.io/theme-tryout-docsy/blog/2018/10/06/easy-documentation-with-docsy/</link>
       <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
