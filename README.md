@@ -3,7 +3,10 @@
 
 - forked example
 
-https://gohugo.io/hugo-pipes/postcss/
+- needs postcss https://gohugo.io/hugo-pipes/postcss/
+- hugo new content blog/hello.md
+
+
 
 # Docsy Example
 
